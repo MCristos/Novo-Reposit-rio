@@ -1,0 +1,50 @@
+body {
+    background: #FA91DE;
+    font-size:20px;
+}
+#topo {width: 90%;
+}
+#pata {width: 35px;  
+}
+#core11 {width: 120px;
+}
+#japones { width: 50%;
+}
+#tab_fotos{
+    font-size: 10px;
+    color: black;
+}
+h1{
+    text-align:center;
+    width: 90%;
+    background: #AD5395;
+    color:#ffffff; 
+    border-style: ridge;
+    border-width: 3px;
+    border-color: #78FAFA;
+}
+.teste {
+    color: aqua;
+    font-size:16 ;
+}
+.amor {
+    width: 25%;
+    vertical-align: top;
+    width: 25%;
+    margin-left: 50px;
+}
+p{ 
+    text-align: justify ;
+}
+em{
+    color:#78FAFA; 
+}
+li::marker{
+    font-size: 20px;
+    color-scheme: red;
+    content:"\2764" ;
+
+}
+ul {
+    display: inline-block;
+}
